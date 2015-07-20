@@ -11,4 +11,5 @@ libcommon_la_SOURCES = LogTrace.h LogTrace.cpp
 libcommon_la_CXXFLAGS = -I$(top_srcdir)/include
 
 clean :
-	rm -rf *.o *.a *.la
+	rm -rf *.o *.a *.la *.lo
+

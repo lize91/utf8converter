@@ -1,6 +1,0 @@
-libcommon_a-LogTrace.o: LogTrace.cpp /usr/include/stdc-predef.h \
- ../include/LogTrace.h
-
-/usr/include/stdc-predef.h:
-
-../include/LogTrace.h:
