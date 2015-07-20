@@ -1,0 +1,6 @@
+* Build 방법
+
+1. ./autogen.sh 스크립트를 통해 configure 생성
+
+2. Debug 버전: ./configure --enable-debug=yes
+   Release 버전: ./configure --enable-debug=no
